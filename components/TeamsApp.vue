@@ -45,7 +45,7 @@
 }
 @media (max-width: 990px) {
   h1{
-    margin-top: 50px;
+    margin-top: 150px;
   }
 }
 .team-app__item img{
